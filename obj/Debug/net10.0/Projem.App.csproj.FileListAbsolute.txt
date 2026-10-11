@@ -1,0 +1,14 @@
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\bin\Debug\net10.0\Projem.App.exe
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\bin\Debug\net10.0\Projem.App.deps.json
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\bin\Debug\net10.0\Projem.App.runtimeconfig.json
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\bin\Debug\net10.0\Projem.App.dll
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\bin\Debug\net10.0\Projem.App.pdb
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\obj\Debug\net10.0\Projem.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\obj\Debug\net10.0\Projem.App.AssemblyInfoInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\obj\Debug\net10.0\Projem.App.AssemblyInfo.cs
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\obj\Debug\net10.0\Projem.App.csproj.CoreCompileInputs.cache
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\obj\Debug\net10.0\Projem.App.dll
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\obj\Debug\net10.0\refint\Projem.App.dll
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\obj\Debug\net10.0\Projem.App.pdb
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\obj\Debug\net10.0\Projem.App.genruntimeconfig.cache
+C:\Users\bengu\OneDrive\Masaüstü\C#\src\Projem.App\obj\Debug\net10.0\ref\Projem.App.dll
